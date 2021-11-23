@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 96181e27765e9a14b8e233b6ff8c14d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2230239592622644495
+    second: roketDestroy_0
+  - first:
+      213: 1926962582839349644
+    second: roketDestroy_1
+  - first:
+      213: -4499317193869905147
+    second: roketDestroy_2
+  - first:
+      213: -7582666660737868424
+    second: roketDestroy_3
+  - first:
+      213: 6128137625364902332
+    second: roketDestroy_4
+  - first:
+      213: -3238490240854940789
+    second: roketDestroy_5
+  - first:
+      213: -8225827477285554720
+    second: roketDestroy_6
+  - first:
+      213: 6013810731674337229
+    second: roketDestroy_7
+  - first:
+      213: -8552354936087680622
+    second: roketDestroy_8
+  - first:
+      213: -6459380854173670597
+    second: roketDestroy_9
+  - first:
+      213: 2128647333906753010
+    second: roketDestroy_10
+  - first:
+      213: 3686477545199343001
+    second: roketDestroy_11
+  - first:
+      213: 1920395386264451280
+    second: roketDestroy_12
+  - first:
+      213: -6450578055738170277
+    second: roketDestroy_13
+  - first:
+      213: -255665318536588632
+    second: roketDestroy_14
+  - first:
+      213: -1062516347156128103
+    second: roketDestroy_15
+  - first:
+      213: 1806975741969524254
+    second: roketDestroy_16
+  - first:
+      213: 438876073384193862
+    second: roketDestroy_17
+  - first:
+      213: 8979751944824551790
+    second: roketDestroy_18
+  - first:
+      213: -3551286334989093994
+    second: roketDestroy_19
+  - first:
+      213: 8912548132855565016
+    second: roketDestroy_20
+  - first:
+      213: 2111160695744253409
+    second: roketDestroy_21
+  - first:
+      213: -70005264865361724
+    second: roketDestroy_22
+  - first:
+      213: 2661795142218124667
+    second: roketDestroy_23
+  - first:
+      213: 21645677761999944
+    second: roketDestroy_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roketDestroy_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 810
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f227b528e89c01e0800000000000000
+      internalID: -2230239592622644495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 810
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81db957242fdba10800000000000000
+      internalID: 1926962582839349644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 810
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503b39fb9d63f81c0800000000000000
+      internalID: -4499317193869905147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_3
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 810
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d9584c8d4f4c690800000000000000
+      internalID: -7582666660737868424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_4
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 810
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1b496b3b48b0550800000000000000
+      internalID: 6128137625364902332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 614
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83a541c8429e03d0800000000000000
+      internalID: -3238490240854940789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 614
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e53fb0ed7df7dd80800000000000000
+      internalID: -8225827477285554720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 614
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf71e77ff8557350800000000000000
+      internalID: 6013810731674337229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_8
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 614
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2996f697f7eef4980800000000000000
+      internalID: -8552354936087680622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_9
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 614
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33e40e165bab56a0800000000000000
+      internalID: -6459380854173670597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 418
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5289dd8797a8d10800000000000000
+      internalID: 2128647333906753010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 418
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9959f0aabcff82330800000000000000
+      internalID: 3686477545199343001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 418
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8779add6d96aa10800000000000000
+      internalID: 1920395386264451280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_13
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 418
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54ebc75f61fa76a0800000000000000
+      internalID: -6450578055738170277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_14
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 418
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a25d335fb1b37cf0800000000000000
+      internalID: -255665318536588632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 222
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e96bff20f2141f0800000000000000
+      internalID: -1062516347156128103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 222
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1667d11ddaa31910800000000000000
+      internalID: 1806975741969524254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 222
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fab76a673371600800000000000000
+      internalID: 438876073384193862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_18
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 222
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69f36a21dc7e9c70800000000000000
+      internalID: 8979751944824551790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_19
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 222
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693b643d4eb47bec0800000000000000
+      internalID: -3551286334989093994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 26
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da4d6e5e4bbfab70800000000000000
+      internalID: 8912548132855565016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 26
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed4a95a7795c4d10800000000000000
+      internalID: 2111160695744253409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_22
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 26
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c00b4f159a470ff0800000000000000
+      internalID: -70005264865361724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_23
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 26
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d85cc349890f420800000000000000
+      internalID: 2661795142218124667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roketDestroy_24
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 26
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8443de511a6ec4000800000000000000
+      internalID: 21645677761999944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
